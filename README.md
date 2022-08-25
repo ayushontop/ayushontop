@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/guruchara](https://github.com/ayushontop)
+- 👨‍💻 All of my projects are available at [https://github.com/ayushontop](https://github.com/ayushontop)
 
 - 📝 I regularly write articles on [http://www.mindmarketer.in](http://www.mindmarketer.in)
 
