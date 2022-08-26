@@ -10,7 +10,7 @@
 🌱 **About myself**<br>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushontop](https://github.com/ayushontop)
 
