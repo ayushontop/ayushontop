@@ -38,7 +38,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruchara&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ayushontop/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushontop&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ayushontop/github-readme-stats)
  
  ---
  
