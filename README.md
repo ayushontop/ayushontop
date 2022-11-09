@@ -43,8 +43,8 @@
  ---
  
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/2ayushtiwari@gmail.com/count.svg?align=center)
+<!-- 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/2ayushtiwari@gmail.com/count.svg?align=center) -->
 
 
 <!-- GITHUB STATISTICS -->
