@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushontop](https://github.com/ayushontop)
 
-- 📝 I regularly write articles on [http://www.mindmarketer.in](http://www.mindmarketer.in)
+- 📝 Check my linkedin [https://www.linkedin.com/in/ayushontop/](http://https://www.linkedin.com/in/ayushontop)
 
 - 📫 How to reach me **2ayushtiwari@gmail.com**
 
