@@ -4,7 +4,7 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>Open To Opportunities</h2>
-<h2 align=center>Contributed to kubernetes Website</h2>
+
 
 
 
@@ -12,9 +12,7 @@
 🌱 **About myself**<br>
 
 
-- 🌱 I’m currently learning **Open source**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ayushontop](https://github.com/ayushontop)
+- 🌱 Contributed To kubernetes 
 
 - 📝 Check my linkedin [https://www.linkedin.com/in/ayushontop/](http://https://www.linkedin.com/in/ayushontop)
 
